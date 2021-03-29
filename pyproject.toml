@@ -6,6 +6,8 @@ authors = ["Guillaume Quenneville <guillaume.quenneville@outlook.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pygame = "^2.0.1"
+numpy = "^1.20.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
