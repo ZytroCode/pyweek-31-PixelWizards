@@ -3,3 +3,4 @@
 Entry for pyweek 31 by:
 - WinterMute
 - ∧ugΦEidEs
+- OmarZeroSpike
